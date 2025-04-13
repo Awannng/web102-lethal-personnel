@@ -12,7 +12,7 @@ const NavBar = () => {
       </Link>
 
       <Link to={"/view"} className="tab">
-        View
+        Gallery
       </Link>
     </div>
   );
